@@ -1,6 +1,6 @@
 import uuid
 print("""Manifest Generator
-v1.0
+v1.0-beta
 Format Version 2""")
 
 packname=input("Enter pack name>")
